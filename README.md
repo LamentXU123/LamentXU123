@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Weilin DU (LamentXU). A 17 years old senior high school student in China.
+I am Weilin Du (LamentXU). A 17 years old senior high school student in China.
 
 My blog: https://lamentxu.top
 
