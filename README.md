@@ -8,6 +8,6 @@ I am a Cyber Security fan. I've joined in CTF competitions for 2 years, mainly f
 
 I'm recently a contributer to Cpython, active on issue trackers and bug fixes.
 
-I'm also an active translater in python doc, Traditional Chinese.
+I'm also an [active translater](https://github.com/python/python-docs-zh-tw/pulls?q=is%3Apr+author%3ALamentXU123+is%3Aclosed) in python doc, Traditional Chinese.
 
 [![my github data](https://github-readme-stats.vercel.app/api?username=LamentXU123)]()
