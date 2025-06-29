@@ -14,7 +14,7 @@ I am:
 
 - a security team member of @ [biliticket](https://github.com/biliticket).
 
-- recently a contributer to [Cpython](https://python/Cpython), active on issue trackers and bug fixes.
+- recently a contributer to [Cpython](https://github.com/python/Cpython), active on issue trackers and bug fixes.
 
 - an [active translater](https://github.com/python/python-docs-zh-tw/pulls?q=is%3Apr+author%3ALamentXU123+is%3Aclosed) in python doc, Traditional Chinese.
 
