@@ -4,6 +4,8 @@ I am Weilin Du (LamentXU). A 17 years old senior high school student in China.
 
 My blog: https://lamentxu.top
 
+Email: 1372449351@qq.com
+
 I am: 
 
 - a CTFer, mainly focus on web exploitations. Team: @ [V&N](https://vnteam.cn)
@@ -16,6 +18,6 @@ I am:
 
 - an [active translater](https://github.com/python/python-docs-zh-tw/pulls?q=is%3Apr+author%3ALamentXU123+is%3Aclosed) in python doc, Traditional Chinese.
 
-Reach me at 1372449351@qq.com ;)
+- coding only in python :)
 
 [![My GitHub Information](https://github-readme-stats.vercel.app/api?username=LamentXU123&count_private=true&show_icons=true)]()
