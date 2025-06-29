@@ -4,12 +4,18 @@ I am Weilin Du (LamentXU). A 17 years old senior high school student in China.
 
 My blog: https://lamentxu.top
 
-I am a Cyber Security fan. I've joined in CTF competitions for 2 years, mainly focus on web exploitations.
+I am: 
 
-I'm recently a contributer to Cpython, active on issue trackers and bug fixes.
+- a CTFer, mainly focus on web exploitations. Team: @ [V&N](https://vnteam.cn)
 
-I'm also an [active translater](https://github.com/python/python-docs-zh-tw/pulls?q=is%3Apr+author%3ALamentXU123+is%3Aclosed) in python doc, Traditional Chinese.
+- an active [CVE reporter](https://vuldb.com/?user.78142).
+
+- a security team member of @ [biliticket](https://github.com/biliticket).
+
+- recently a contributer to [Cpython](https://python/Cpython), active on issue trackers and bug fixes.
+
+- an [active translater](https://github.com/python/python-docs-zh-tw/pulls?q=is%3Apr+author%3ALamentXU123+is%3Aclosed) in python doc, Traditional Chinese.
 
 Reach me at 1372449351@qq.com ;)
 
-[![my github data](https://github-readme-stats.vercel.app/api?username=LamentXU123)]()
+[![My GitHub Information](https://github-readme-stats.vercel.app/api?username=LamentXU123&count_private=true&locale=cn&show_icons=true)]()
