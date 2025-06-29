@@ -18,4 +18,4 @@ I am:
 
 Reach me at 1372449351@qq.com ;)
 
-[![My GitHub Information](https://github-readme-stats.vercel.app/api?username=LamentXU123&count_private=true&locale=cn&show_icons=true)]()
+[![My GitHub Information](https://github-readme-stats.vercel.app/api?username=LamentXU123&count_private=true&show_icons=true)]()
