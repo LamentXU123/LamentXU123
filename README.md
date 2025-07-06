@@ -23,11 +23,11 @@ Email: 1372449351@qq.com
 ### CVE
 
 [CVE-2024-12007](https://www.cve.org/CVERecord?id=CVE-2024-12007)  
-[CVE-2024-12232](https://www.cve.org/CVERecord?id=CVE-2024-12232) 
-[CVE-2024-12233](https://www.cve.org/CVERecord?id=CVE-2024-12233) 
-[CVE-2025-0531](https://www.cve.org/CVERecord?id=CVE-2025-0531) 
-[CVE-2025-0882](https://www.cve.org/CVERecord?id=CVE-2025-0882) 
-[CVE-2025-5881](https://www.cve.org/CVERecord?id=CVE-2025-5881) 
+[CVE-2024-12232](https://www.cve.org/CVERecord?id=CVE-2024-12232)  
+[CVE-2024-12233](https://www.cve.org/CVERecord?id=CVE-2024-12233)  
+[CVE-2025-0531](https://www.cve.org/CVERecord?id=CVE-2025-0531)  
+[CVE-2025-0882](https://www.cve.org/CVERecord?id=CVE-2025-0882)  
+[CVE-2025-5881](https://www.cve.org/CVERecord?id=CVE-2025-5881)  
 
 ### Blog
 
