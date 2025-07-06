@@ -16,7 +16,9 @@ Email: 1372449351@qq.com
 
 - an [active translater](https://github.com/python/python-docs-zh-tw/pulls?q=is%3Apr+author%3ALamentXU123+is%3Aclosed) in python doc, Traditional Chinese.
 
-- a python fan ;-) 
+- a python fan ;-)
+
+- Coding in python, C#, php
 
 [![My GitHub Information](https://github-readme-stats.vercel.app/api?username=LamentXU123&count_private=true&show_icons=true)]()
 
