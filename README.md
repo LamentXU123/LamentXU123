@@ -30,6 +30,10 @@ Email: 1372449351@qq.com
 [CVE-2025-0531](https://www.cve.org/CVERecord?id=CVE-2025-0531)  
 [CVE-2025-0882](https://www.cve.org/CVERecord?id=CVE-2025-0882)  
 [CVE-2025-5881](https://www.cve.org/CVERecord?id=CVE-2025-5881)  
+[CVE-2025-7186](https://www.cve.org/CVERecord?id=CVE-2025-7186)  
+[CVE-2025-7187](https://www.cve.org/CVERecord?id=CVE-2025-7187)  
+[CVE-2025-7188](https://www.cve.org/CVERecord?id=CVE-2025-7188)  
+[CVE-2025-7189](https://www.cve.org/CVERecord?id=CVE-2025-7189)  
 
 ### Blog
 
