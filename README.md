@@ -12,7 +12,7 @@ Email: 1372449351@qq.com
 
 - a security team member of @ [biliticket](https://github.com/biliticket).
 
-- a maintainer of [Phantom](https://github.com/Team-intN18-SoybeanSeclab/Phantom) framework.
+- Author & Maintainer of [Phantom](https://github.com/Team-intN18-SoybeanSeclab/Phantom), [Typhon](https://github.com/Team-intN18-SoybeanSeclab/Typhon) framework.
 
 - recently a contributer to [Cpython](https://github.com/python/Cpython), active on issue trackers and bug fixes.
 
