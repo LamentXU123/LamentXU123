@@ -6,7 +6,7 @@ Email: 1372449351@qq.com
 
 ### About
 
-- a CTFer, mainly focus on web exploitations. Team: @ [V&N](https://vnteam.cn)
+- a CTFer, mainly focus on web exploitations. Team: @ [W&M](https://wm-team.cn)
 
 - an active [CVE reporter](https://vuldb.com/?user.78142).
 
