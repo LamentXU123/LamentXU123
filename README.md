@@ -4,7 +4,7 @@ I write Python, Php, C#, C++, C, Java and Visual Basic. Mostly Php and C(++), an
 
 I am interested in everything concerning contributing to the open source community, including codes, documents and translations.
 
-I am also a fan in cybersecurity. I participate CTFs with the W&M team and the V&N team.
+I am also a fan of cybersecurity. I participate CTFs with the W&M team and the V&N team.
 
 And by the way, I love math & music!
 
