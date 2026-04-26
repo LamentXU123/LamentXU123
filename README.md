@@ -6,7 +6,7 @@ I am interested in everything concerning contributing to the open source communi
 
 I am also a fan of cybersecurity. I participate CTFs with the W&M team and the V&N team.
 
-And by the way, I love math & music!
+And by the way, I love math & music! I speak English, Cantonese and Mandarin. I am also an amateur in game development.
 
 Projects I am currently maintaining / writing:
 
