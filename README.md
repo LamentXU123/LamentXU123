@@ -21,3 +21,7 @@ Projects I am willing to contribute to:
 
 - [php/doc-zh](https://github.com/php/doc-zh): The Chinese translation of the PHP documentation.
 - [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw): The Traditional Chinese translation of the python documentation.
+
+You can contact me through my QQ email: 1372449351@qq.com (and yes, also through my QQ ID).
+
+If you think something I wrote is useful, consider...... Oh no I just want to say, well, thank you!
