@@ -20,4 +20,4 @@ The project I am currently contributing to:
 The project I am willing to contribute to:
 
 - [php/doc-zh](https://github.com/php/doc-zh): The Chinese translation of the PHP documentation.
-- [python/python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw): The Traditional Chinese translation of the python documentation.
+- [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw): The Traditional Chinese translation of the python documentation.
