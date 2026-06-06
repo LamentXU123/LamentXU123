@@ -8,7 +8,7 @@ And by the way, I love math & music! I speak English, Cantonese and Mandarin. I 
 
 Projects I am currently maintaining / writing:
 
-- [LamentXU123/secured_pip](https://github.com/LamentXU123/secured_pip): A defensive pip wrapper with supply-chain preflight checks. ![Total Downloads](https://static.pepy.tech/personalized-badge/secured-pip?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)
+- [LamentXU123/secpipw](https://github.com/LamentXU123/secured_pip): A defensive pip wrapper with supply-chain preflight checks. ![Total Downloads](https://static.pepy.tech/personalized-badge/secured-pip?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)
 - [LamentXU123/Typhon](https://github.com/LamentXU123/Typhon): A auto python sandbox escaper. ![Total Downloads](https://static.pepy.tech/personalized-badge/typhonbreaker?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)
 - [Team-intN18-SoybeanSeclab/Phantom](https://github.com/Team-intN18-SoybeanSeclab/Phantom): A web browser extension for penetration test. ![GitHub Stars](https://img.shields.io/github/stars/Team-intN18-SoybeanSeclab/Phantom?color=brightgreen)
 
