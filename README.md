@@ -14,7 +14,7 @@ Projects I am currently maintaining / writing:
 
 Projects I am currently contributing to:
 
-- [php/php-src](https://github.com/php/php-src): The PHP Interpreter.
+- [php/php-src](https://github.com/php/php-src): The PHP Interpreter. I am insterested in developing and maintaining the intl extension.
 
 Projects I am willing to contribute to:
 
