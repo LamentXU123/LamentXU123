@@ -6,15 +6,11 @@ I am also a fan of cybersecurity. I participate CTFs with the W&M team and the V
 
 And by the way, I love math & music! I speak English, Cantonese and Mandarin. I am also an amateur in game development.
 
-Projects I am currently maintaining / writing:
+Projects I am currently maintaining / writing / contributing to:
 
-- [LamentXU123/secpipw](https://github.com/LamentXU123/secured_pip): A defensive pip wrapper with supply-chain preflight checks. ![Total Downloads](https://static.pepy.tech/personalized-badge/secpipw?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)
 - [LamentXU123/Typhon](https://github.com/LamentXU123/Typhon): A auto python sandbox escaper. ![Total Downloads](https://static.pepy.tech/personalized-badge/typhonbreaker?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)
 - [Team-intN18-SoybeanSeclab/Phantom](https://github.com/Team-intN18-SoybeanSeclab/Phantom): A web browser extension for penetration test. ![GitHub Stars](https://img.shields.io/github/stars/Team-intN18-SoybeanSeclab/Phantom?color=brightgreen)
-
-Projects I am currently contributing to:
-
-- [php/php-src](https://github.com/php/php-src): The PHP Interpreter. I am insterested in developing and maintaining the intl extension.
+- [php/php-src](https://github.com/php/php-src): The PHP Interpreter. I am especially insterested in developing and maintaining the intl extension.
 
 Projects I am willing to contribute to:
 
