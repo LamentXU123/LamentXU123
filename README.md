@@ -1,4 +1,4 @@
 Hi, I am Weilin Du (LamentXU), an 18 years old college student in the Hong Kong University of Science and Technology (HKUST) majoring Electronic and Computer Engineering (ECE).
-- Core Developer of the [@php](https://github.com/php) programming language
-- CTF Player [@wm-team](https://github.com/wm-team) [@vn-sec](https://github.com/vn-sec)
+- Core Developer of the [@php](https://github.com/php) programming language. I help maintain several extensions and my work in the php core mainly focus on the [intl extension](https://github.com/php/php-src/blob/master/ext/intl/CREDITS).
+- CTF Player. [@wm-team](https://github.com/wm-team) [@vn-sec](https://github.com/vn-sec)
 - Author of the [Typhonbreaker](https://pepy.tech/projects/typhonbreaker) package, and has developed several other Open Source Software.
